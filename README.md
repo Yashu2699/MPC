@@ -1,3 +1,3 @@
-# Autonomous Robots: Model Predictive Control
+Model Predictive Control
 
-Course link: www.udemy.com/course/model-predictive-control/
+
